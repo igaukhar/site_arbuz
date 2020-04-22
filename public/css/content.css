@@ -1,0 +1,39 @@
+section.heading-nav.d-none.d-lg-block.mt-3{
+    margin: 16px 0px 0px;
+}
+
+div.container{
+    margin: 0px 31.3333px;
+    padding: 0px 15px;
+}
+
+ul.navbar.nav{
+    color: #212529;
+    font-size: 16px;
+    background-color: #ffffff;
+}
+
+
+div.dropdown-menu{
+    background-color: #f4f4f4;
+    padding: 8px 0px;
+}
+
+div.item.col-4{
+    margin: 0px 0px 8px;
+    padding: 0px 15px;
+}
+
+span{
+    color: #202020;
+    font-size: 16px;
+}
+a.dropdown-item.d-flex.justify-content-center{
+    background-color: #ffffff;
+    padding: 4px 16px;
+}
+
+.img-fluid{
+    width: 930px;
+    height: 337.94px;
+}
